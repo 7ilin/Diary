@@ -25,7 +25,7 @@ SECRET_KEY = '*tt@ie!zqhutiuflmj7e=zeh!1ln((=-!ec@t4cg@jqxh9r(&h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'myblogvova.pythonanywhere.com']
 
 
 # Application definition
